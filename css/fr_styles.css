@@ -1,0 +1,51 @@
+
+
+body {
+  background-image: url("http://www.getstronghealth.com/wp-content/uploads/2016/11/pexels-photo-medium.jpg");
+  background-repeat: no repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header {
+  font-family: Shrikhand;
+  color: Black;
+  background-color: FireBrick;
+  font-size: 120%;
+  text-align:center;
+  margin: 0px 400px;
+  border-radius: 4px;
+}
+
+a {
+  font-family: Shrikhand;
+  color: black;
+}
+
+a:hover {
+  color: DarkSlateGrey;
+}
+
+.icon {
+  width: 50px;
+}
+
+.coffee {
+  border: medium double black;
+  border-radius: 3px;
+  padding: 4px;
+  margin: 15px 300px;
+  text-align: center;
+  background-color: #c92727;
+  display: block;
+}
+
+table, p, footer {
+  margin: 0 auto;
+  font-family: Roboto;
+}
+
+footer {
+  color: white;
+  text-align: center;
+}
